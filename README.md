@@ -23,6 +23,8 @@
 <br>
 <br>
 
-### Learning
 - 🌱 I’m currently learning: **Mongoose, React Native and GraphQL**
+
+### Get in touch
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
