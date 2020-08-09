@@ -2,14 +2,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&hide=coldFusion)  ![bidodev GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidodev&hide=["stars"]&show_icons=true)
 
-- 🌱 I’m currently learning: **Express / MongoDB and Mongoose**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
+### Currently Stack:
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -22,3 +19,7 @@
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+## Learning
+- 🌱 I’m currently learning: **Mongoose, React Nativ and GraphQL**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
