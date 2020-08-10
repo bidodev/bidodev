@@ -1,6 +1,6 @@
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&hide=coldFusion)  ![bidodev GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidodevv&count_private=true&hide=["stars"]&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&hide=coldFusion)  ![bidodev GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidodev&count_private=true&hide=["stars"]&show_icons=true)
 
 ### Currently Stack:
 
