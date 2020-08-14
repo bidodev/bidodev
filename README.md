@@ -28,3 +28,5 @@
 ### Contact
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
+
+<img align="left" alt="CV" width="32px" src="https://cdn4.iconfinder.com/data/icons/resolutions/32/resolution-05-512.png" />
