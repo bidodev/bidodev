@@ -31,4 +31,5 @@
 
 ### Curriculum vitae
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://cdn4.iconfinder.com/data/icons/resolutions/32/resolution-05-512.png" />][cv]
+
 [cv]: https://github.com/bidodev/bidodev/blob/master/claudinei.bido.cv.pdf
