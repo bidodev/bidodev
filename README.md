@@ -29,4 +29,6 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
 
-<img align="left" alt="CV" width="64px" src="https://cdn4.iconfinder.com/data/icons/resolutions/32/resolution-05-512.png" />(./claudinei.bido.cv.pdf)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn4.iconfinder.com/data/icons/resolutions/32/resolution-05-512.png" />][cv]
+
+[cv]: https://github.com/bidodev/bidodev/blob/master/claudinei.bido.cv.pdf
