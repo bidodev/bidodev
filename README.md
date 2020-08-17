@@ -25,9 +25,9 @@
 
 🌱 I’m currently learning: **Mongoose, React Native and GraphQL**
 
-### Contact
+## 📫 Contact
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
+How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
 
 ### Curriculum vitae
 [<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" />][cv]
