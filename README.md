@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&hide=coldFusion)  ![bidodev GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidodev&count_private=true&hide=["stars"]&show_icons=true)
 
-### Currently Stack:
+## 🔧 Technologies & Tools
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/css.png" />
