@@ -1,4 +1,4 @@
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://raw.githubusercontent.com/bidodev/bidodev/master/dino.gif)
 
 ## 🔧 Technologies & Tools
 
