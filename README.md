@@ -1,5 +1,3 @@
-![picture](./images/dino.gif)
-
 <details>
   <summary>🔧 Technologies & Tools</summary>
 <img align="left" alt="HTML5" width="32px" src="./images/html.png" />
@@ -30,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
-
 ## 📫 Contact
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
