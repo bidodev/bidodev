@@ -25,6 +25,13 @@
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
 
+### Curriculum vitae
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" />][cv]
+
+[cv]: https://github.com/bidodev/bidodev/blob/master/claudinei.bido.cv.pdf
+
+<br/>
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=bidodev&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
@@ -34,13 +41,6 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to c
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
-
-### Curriculum vitae
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" />][cv]
-
-[cv]: https://github.com/bidodev/bidodev/blob/master/claudinei.bido.cv.pdf
-
 <br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/bidodev)](https://github.com/bidodev)
