@@ -1,5 +1,9 @@
+## Hi 👋
+
+I'm Claudinei, a Software Engineer from Brazil currently living and working in Berlin and I'm passionate about technology, communities, and everything in-between.
+
 <details>
-  <summary>🔧 Technologies & Tools</summary>
+<summary>🔧 Technologies & Tools</summary>
 <img align="left" alt="HTML5" width="32px" src="./images/html.png" />
 <img align="left" alt="CSS3" width="32px" src="./images/css.png" />
 <img align="left" alt="Sass" width="32px" src="./images/sass.png" />
