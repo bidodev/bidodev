@@ -34,7 +34,6 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to c
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
-<br/>
 
 ### Curriculum vitae
 
