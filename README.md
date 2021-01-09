@@ -1,7 +1,7 @@
 ![picture](./images/dino.gif)
 
-## 🔧 Technologies & Tools
-
+<details>
+  <summary>🔧 Technologies & Tools</summary>
 <img align="left" alt="HTML5" width="32px" src="./images/html.png" />
 <img align="left" alt="CSS3" width="32px" src="./images/css.png" />
 <img align="left" alt="Sass" width="32px" src="./images/sass.png" />
@@ -18,20 +18,8 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br>
-<br>
+</details>
 
-## 📫 Contact
-
-How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
-
-### Curriculum vitae
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="48px" src="https://cdn0.iconfinder.com/data/icons/thin-files-documents/57/thin-081_file_document_cv_curriculum_vitae-512.png" />][cv]
-
-[cv]: https://github.com/bidodev/bidodev/blob/master/claudinei.bido.cv.pdf
-
-<br/>
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=bidodev&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
@@ -42,5 +30,9 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
+
+## 📫 Contact
+
+How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/bidodev)](https://github.com/bidodev)
