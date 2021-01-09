@@ -1,4 +1,4 @@
-<img align="left" alt="HTML5" width="100%" src="./images/dino.gif" />
+![picture](./images/dino.gif)
 
 ## 🔧 Technologies & Tools
 
