@@ -41,4 +41,5 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to c
 
 [cv]: https://github.com/bidodev/bidodev/blob/master/claudinei.bido.cv.pdf
 
+<br/>
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/bidodev)](https://github.com/bidodev)
