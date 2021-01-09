@@ -30,6 +30,7 @@
 
 ## 📫 Contact
 
-How to reach me: [LinkedIn](https://www.linkedin.com/in/bidoc/) - feel free to contact me!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudineibido/)](https://www.linkedin.com/in/claudineibido/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudinei.bido@gmail.com)](mailto:claudinei.bido@gmail.com)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/bidodev)](https://github.com/bidodev)
