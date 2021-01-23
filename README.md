@@ -1,7 +1,7 @@
 ## Hi 👋
 
 I'm Claudinei, a Brazilian Software Engineer currently living and working in Berlin and I'm passionate about technology, communities, and everything in-between.
-
+<br />
 <details>
 <summary>🔧 Technologies & Tools</summary>
 <img align="left" alt="HTML5" width="32px" src="./images/html.png" />
