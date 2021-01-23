@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Claudinei, a Software Engineer from Brazil currently living and working in Berlin and I'm passionate about technology, communities, and everything in-between.
+I'm Claudinei, a Brazilian Software Engineer currently living and working in Berlin and I'm passionate about technology, communities, and everything in-between.
 
 <details>
 <summary>🔧 Technologies & Tools</summary>
@@ -22,10 +22,12 @@ I'm Claudinei, a Software Engineer from Brazil currently living and working in B
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </details>
 
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=bidodev&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
+
 
 <details>
   <summary>:zap: Languages Used</summary>
