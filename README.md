@@ -36,5 +36,3 @@ I'm Claudinei, a Brazilian Software Engineer currently living and working in Ber
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudineibido/)](https://www.linkedin.com/in/bidoc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudinei.bido@gmail.com)](mailto:claudinei.bido@gmail.com)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/bidodev)](https://github.com/bidodev)
