@@ -13,6 +13,7 @@ Passionate about clean architecture, developer tooling, and shipping fast — fr
 - 🔨 Building a mobile-first expense splitter with receipt OCR and real-time balances
 - 🧠 Building an AI agent skill for full agile loops — ideation to deploy
 - 🧩 Building **Chrome extensions** and **VS Code extensions**
+- 🤖 Exploring **AI-driven development**, automation tooling, and **CI/CD** pipelines
 - 🌱 Deep-diving into **Svelte 5**, **Capacitor**, **Module Federation**, and **edge-first architectures**
 
 ---
