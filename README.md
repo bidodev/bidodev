@@ -1,9 +1,9 @@
 <img src="./images/dino.gif" width="480" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=222222&vCenter=true&width=435&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=222222&vCenter=true&width=435&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&vCenter=true&width=480&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=222222&vCenter=true&width=480&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=222222&vCenter=true&width=480&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
 </picture>
 
 Passionate about clean architecture, developer tooling, and shipping fast — from mobile apps to fullstack platforms.
