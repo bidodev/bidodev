@@ -38,7 +38,7 @@ Brazilian Software Engineer based in Berlin. I build products people actually us
 
 ### GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" width="100%" />
 
 ---
 
