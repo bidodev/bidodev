@@ -10,8 +10,8 @@ Brazilian Software Engineer based in Berlin. I build products people actually us
 
 ### What I'm up to
 
-- 🔨 Building **SplitAI** — a mobile-first app for group expense splitting with receipt OCR
-- 🧠 Exploring AI-assisted development workflows and agent-driven engineering
+- 🔨 Building a mobile-first expense splitter with receipt OCR and real-time balances
+- 🧠 Building an AI agent skill for full agile loops — ideation to deploy
 - 🌱 Deep-diving into **Svelte 5**, **Capacitor**, and **edge-first architectures**
 
 ---
@@ -36,20 +36,9 @@ Brazilian Software Engineer based in Berlin. I build products people actually us
 
 ---
 
-### What I'm building
+### GitHub Stats
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Mobile expense splitter | Group expense splitting with receipt OCR and real-time balances | Svelte 5, Supabase, Capacitor, OpenAI |
-| AI agent skill | Full agile loop from ideation to deploy — automated engineering workflow | Codex, Shell, Markdown DSL |
-
----
-
-<details>
-<summary>GitHub Stats</summary>
-<br />
 <img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" />
-</details>
 
 ---
 
