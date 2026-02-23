@@ -12,7 +12,8 @@ Passionate about clean architecture, developer tooling, and shipping fast — fr
 
 - 🔨 Building a mobile-first expense splitter with receipt OCR and real-time balances
 - 🧠 Building an AI agent skill for full agile loops — ideation to deploy
-- 🌱 Deep-diving into **Svelte 5**, **Capacitor**, and **edge-first architectures**
+- 🧩 Building **Chrome extensions** and **VS Code extensions**
+- 🌱 Deep-diving into **Svelte 5**, **Capacitor**, **Module Federation**, and **edge-first architectures**
 
 ---
 
@@ -32,6 +33,8 @@ Passionate about clean architecture, developer tooling, and shipping fast — fr
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Module Federation](https://img.shields.io/badge/Module%20Federation-3178C6?style=flat&logo=webpack&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
