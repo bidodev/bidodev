@@ -38,7 +38,7 @@ Passionate about clean architecture, developer tooling, and shipping fast — fr
 
 ### GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" width="100%" height="180" />
+<p align="left"><img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" height="180" /></p>
 
 ---
 
