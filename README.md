@@ -6,7 +6,7 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=222222&vCenter=true&width=435&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
 </picture>
 
-Brazilian Software Engineer based in Berlin. I build products people actually use — from mobile apps to fullstack platforms. Passionate about clean architecture, developer tooling, and shipping fast.
+Passionate about clean architecture, developer tooling, and shipping fast — from mobile apps to fullstack platforms.
 
 ### What I'm up to
 
