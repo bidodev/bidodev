@@ -1,38 +1,55 @@
-## Hi 👋
+![header](./images/dino.gif)
 
-I'm Claudinei, a Brazilian Software Engineer currently living and working in Berlin and I'm passionate about technology, communities, and everything in-between.
-<br />
+# Hey, I'm Claudinei 👋
+
+Brazilian Software Engineer based in Berlin. I build products people actually use — from mobile apps to fullstack platforms. Passionate about clean architecture, developer tooling, and shipping fast.
+
+### What I'm up to
+
+- 🔨 Building **SplitAI** — a mobile-first app for group expense splitting with receipt OCR
+- 🧠 Exploring AI-assisted development workflows and agent-driven engineering
+- 🌱 Deep-diving into **Svelte 5**, **Capacitor**, and **edge-first architectures**
+
+---
+
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### What I'm building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| Mobile expense splitter | Group expense splitting with receipt OCR and real-time balances | Svelte 5, Supabase, Capacitor, OpenAI |
+| AI agent skill | Full agile loop from ideation to deploy — automated engineering workflow | Codex, Shell, Markdown DSL |
+
+---
+
 <details>
-<summary>🔧 Technologies & Tools</summary>
-<img align="left" alt="HTML5" width="32px" src="./images/html.png" />
-<img align="left" alt="CSS3" width="32px" src="./images/css.png" />
-<img align="left" alt="Sass" width="32px" src="./images/sass.png" />
-<img align="left" alt="JavaScript" width="32px" src="./images/javascript.png" />
-<img align="left" alt="TypeScript" width="32px" src="./images/typescript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="32px" src="https://camo.githubusercontent.com/84fefba8b3d171bbf882b837a12bcb2090221f62/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a744f49365543354561533266504974436573492d41512e706e67" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="32px" src="./images/express.png" />
-<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/d977c37fe74bd2ea7c56f086c9d0b2cb8d34d1a2/68747470733a2f2f7777772e636c6f7564612e63612f77702d636f6e74656e742f75706c6f6164732f323031332f30332f6d6f6e676f64622d6c6f676f2e706e67" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</details>
+<summary>GitHub Stats</summary>
 <br />
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=bidodev&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-<br />
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidodev&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" />
 </details>
 
-## 📫 Contact
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudineibido/)](https://www.linkedin.com/in/bidoc/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudinei.bido@gmail.com)](mailto:claudinei.bido@gmail.com)
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudineibido/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:claudinei.bido@gmail.com)
