@@ -1,4 +1,4 @@
-![header](./images/dino.gif)
+<img src="./images/dino.gif" width="480" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Hey%2C+I'm+Claudinei+%F0%9F%91%8B;Software+Engineer+%7C+Berlin;Building+products+people+actually+use" />
@@ -38,7 +38,7 @@ Passionate about clean architecture, developer tooling, and shipping fast — fr
 
 ### GitHub Stats
 
-<p align="left"><img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" height="180" /></p>
+<p align="left"><img src="https://streak-stats.demolab.com/?user=bidodev&theme=default&hide_border=true" width="480" /></p>
 
 ---
 
